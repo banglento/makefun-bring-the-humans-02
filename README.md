@@ -67,7 +67,7 @@ Use the kit's makefun command line and the bounty rules to prepare and submit th
 
 ### 6. Check it, fix it, resubmit
 
-After submission, check the entry against the bounty's rules and what the kit reports. If something needs fixing, update the entry and submit it again as the rules allow. Keep the submitted repository, commit, and transcripts consistent; the entry is evaluated with those materials.
+After submission, compare your entry with the bounty's rules and the kit's report. If it needs a fix, update it and resubmit as the rules allow. Keep the repository, commit, and transcripts consistent; together, they're the submitted entry.
 
 ### 7. Claim your reward
 
